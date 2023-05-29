@@ -13,3 +13,29 @@
  *= require_tree .
  *= require_self
  */
+
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bolder;
+}
+
+h2 {
+font-family: Arial, Helvetica, sans-serif;
+font: small;
+}
+
+#question {
+  margin-left: 1%;
+  padding-left: 1%;
+  margin-bottom: 10px;
+  border-left: 2px solid darkgrey;
+  border-radius: 2%;
+}
+
+#answer{
+    margin-left: 1%;
+    padding-left: 1%;
+    margin-bottom: 10px;
+    border-left: 2px solid darkgrey;
+    border-radius: 2%;
+}
